@@ -1,5 +1,7 @@
 # frontend
 
+Demo is hosted at [Netlify](https://nifty-cori-e0e3e7.netlify.app/)
+
 ## Project setup
 ```
 yarn install
